@@ -40,6 +40,7 @@ Task Completed
 → Completion Log Sheet / Reporting Layer
 
 More details: see [`docs/architecture.md`](docs/architecture.md)
+![High-Level Architecture](docs/architecture.png)
 
 ## My role
 
@@ -85,3 +86,7 @@ This repository is a sanitized case study created to demonstrate:
 - process-oriented thinking
 - handling platform constraints pragmatically
 - building useful systems with lightweight tools
+
+## Future improvements
+
+See [`docs/future-improvements.md`](docs/future-improvements.md) for the next iteration ideas, including unified request tracking, improved reporting, and a more flexible automation architecture.
