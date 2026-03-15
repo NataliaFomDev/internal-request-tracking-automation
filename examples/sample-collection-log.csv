@@ -1,0 +1,4 @@
+request_id,request_title,completed_at,completed_by,final_status
+REQ-1042,Access update request,2026-03-12T13:40:00Z,user_05,completed
+REQ-1043,Equipment handover,2026-03-12T16:10:00Z,user_08,completed
+REQ-1044,Document approval,2026-03-13T10:25:00Z,user_03,completed
